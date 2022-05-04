@@ -1,0 +1,21 @@
+.title {
+   font-size: 35px;
+   font-weight: 500
+   margin-bottom: 0;
+}
+.sub-title {
+   font-size: 25px;
+   font-weight: 500
+   margin-bottom: 0;
+}
+@media (max-width: 425px) {
+	.title{
+		font-size: 30px;
+	}
+	.sub-title {
+        font-size: 22px;
+        font-weight: 300
+        margin-bottom: 0;
+    }
+		
+}

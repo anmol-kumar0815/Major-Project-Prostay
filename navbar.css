@@ -1,0 +1,15 @@
+.navbar-brand {
+	height: 10vh;
+}
+@media (min-width: 992px) {
+	.navbar-nav .nav-item .nav-link {
+        font-weight:500;
+        font-size: 16px;
+        margin-left:10px;
+        padding: 7px 13px;
+    }
+	nav ul li a.active, nav ul li a:hover {
+        background: #FFED46;
+        transition: .5s;
+    }
+}	
