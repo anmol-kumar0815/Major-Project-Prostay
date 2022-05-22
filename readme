@@ -1,0 +1,13 @@
+<b>Steps for Running the project.</b><br />
+1 => Install Xampp Server<br />
+2 => Go to C drive -> xampp -> control panel(open it, and start apache and mysql server).<br />
+3 => Type "localhost/phpmyadmin" in the browser and hit enter.<br />
+4 => Create a new database as "prostay".<br />
+5 => Export prostay.sql file that is present in main folder.<br />
+6 => Type "localhost/your_folder_name" in the browser to run the main page.<br />
+7 => Type "localhost/your_folder_name/admin" in the browser to run the main page.<br />
+
+====================Login Id, Password for Admin Panel============================<br />
+Email = anmolshrivastav.08@gmail.com, Password = anmol@123 <br/><br/>
+
+Happy Learning.
