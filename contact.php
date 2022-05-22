@@ -73,7 +73,7 @@ if(isset($_POST['SEND'])) {
   
   <div class="col-lg-6 col-md-6 col-sm-12 col-12 order-lg-1 order-2">
     <p class="location">Google Map Location</p>
-    <p><iframe class="xl-12" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.35612873351!2d75.80640061504378!3d26.860424183150162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db677b9ba08dd%3A0x9b21339e8464953b!2sMnit%20Innovation%20And%20Incubation%20Center!5e0!3m2!1sen!2sin!4v1604994897743!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+    <p><iframe class="xl-12" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7008.118993757231!2d77.22410499342263!3d28.567976060482362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce25d02f7ed73%3A0x6a5eb2c766f2ed58!2sSouth%20Extension!5e0!3m2!1sen!2sin!4v1653217069792!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
   </div>
   <div class="col-lg-6 col-md-6 col-sm-12 col-12 bg-yellow order-lg-2 order-1">
 	<form action="<?php $_SERVER['PHP_SELF'];?>" method="post">

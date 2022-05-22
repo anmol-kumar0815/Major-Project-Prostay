@@ -115,8 +115,8 @@ session_start();
             </div>
           </nav>
         <div class="container" style="margin-top: 85px;">
-		    <p style="font-size: 30px; font-weight: 400;">EVERGREENCUBE SOLUTION PVT. LTD</p>
-			<p>BTH, Jhalana Doongri, Jaipur, Rajasthan 302004</p>
+		    <p style="font-size: 30px; font-weight: 400;">Prostay</p>
+			<p>D-50 South Extension, New Delhi, India.</p>
 			<hr style="height:2px; background-color:#FFED46;padding:0;">
 			<p class="text-center" style="font-size: 18px;">TERMS AND CONDITION</p>
 			<p style="font-size: 16px;">A. USE OF PROSTAYLIFE PLATFORM & INTELLECTUAL PROPERTY during the Term of the Agreement and subject to the terms and conditions herein:</p>

@@ -1,0 +1,9 @@
+first when an admin add a pg a new entry will be add in "addcard" table with a unique ID
+    -> After adding that pg card in database we will create 6 tables(for each card as 'tableName_CardID') dynamically. 
+        1) Carousel table
+        2) Facility table
+        3) Facility not included table
+        4) Review table = it have a unique id attribute, username and Review written by user.
+        5) Occupacy table = it will store how many number of persons allowed in the pg and price.
+        6) Points review table = it will store two things one is id and second is username of that user who reviewed pg on point scale.
+

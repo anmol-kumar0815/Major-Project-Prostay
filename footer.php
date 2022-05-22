@@ -52,8 +52,8 @@
 	   <div class="container">
 	       <div class="row">
 		      <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-dark">
-			    <p style="font-weight: 700; font-size: 16px;">Prostay is powered by EvergreenCube Solutions Pvt.Ltd</p>
-				EvergreenCube Solutions Pvt.LTD<br>MIIC- MNIT, Naya Bass, Jhalana Gram, Malviya Nagar,<br>Jaipur, Rajasthan <br>302017
+			    <p style="font-weight: 700; font-size: 16px;">Prostay End To End Solutions</p>
+				D-50 South Extension<br>New Delhi, India <br>110003
 			  </div>
 		   </div>
 	   </div>
@@ -75,7 +75,7 @@
 						<li class="social"><a href="https://twitter.com/ProstayIn"><i class="fab fa-twitter" style="font-size:25px; color: black;" OnMouseOver="this.style.color='#00acee'" OnMouseOut="this.style.color='black'"></i></a></li>
                         <li class="social"><a href="https://www.facebook.com/prostay.in"><i class="fab fa-facebook" style="font-size:25px; color: black;" OnMouseOver="this.style.color='blue'" OnMouseOut="this.style.color='black'"></i></a></li>
 						<li class="social"><a href="https://instagram.com/prostay.in?igshid=1u2btslxtzkfi"><i class="fab fa-instagram" style="font-size:25px; color: black;" OnMouseOver="this.style.color='#3f729b'" OnMouseOut="this.style.color='black'"></i></a></li> 
-                        <li class="social"><a href="https://play.google.com/store/apps/details?id=com.sanjay.prostay"><img src="images/android.png" class="img-fluid" style="height:7vh;" /></a></li> 
+                        <li class="social"><a href="comingSoon.php"><img src="images/android.png" class="img-fluid" style="height:7vh;" /></a></li> 
 					</ul>
                 </div>   
 			  </div>

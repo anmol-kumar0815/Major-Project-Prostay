@@ -42,8 +42,8 @@
        mysqli_query($conn, $sql) or die("Insert query not running");
 	   
 	   $sql = "SELECT ID FROM addcard ORDER BY ID DESC LIMIT 1";
-	   $result = mysqli_query($conn, $sql) or die("SELECT ID QUERY NOT RUNNING");
-	   $row = mysqli_fetch_assoc($result) or die("Not fetching id");
+	   $result = mysqY NOT RUNNING");
+	   $row = mysqli_fetch_assoc($result) or dili_query($conn, $sql) or die("SELECT ID QUERe("Not fetching id");
 	   
 	   //CAROUSEL TABLE
 	   $tablename = "carousel_".$row['ID'];
@@ -83,6 +83,7 @@
 	       mysqli_query($conn, $sql) or die("Facility Not insert query not running");
 	    }
 	   }
+	   
 	   //REVIEWS TABLE CREATION
 	   $tablename = "reviews_".$row['ID'];
 	   $sql = "CREATE TABLE $tablename(ID INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,USERNAME VARCHAR(100) NOT NULL, REVIEW VARCHAR(1000) NOT NULL)";

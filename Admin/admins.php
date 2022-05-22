@@ -108,7 +108,7 @@ if(!isset($_SESSION['EMAIL'])) {
 		<div class="container-fluid" style="margin-top: 85px;">
 		   <div class="row">
 		   <?php 
-		    if($_SESSION['ID'] == 2) {
+		    if($_SESSION['EMAIL'] == 'anmolshrivastav.08@gmail.com' || $_SESSION['EMAIL'] == 'rohit06102000@gmail.com' || $_SESSION['EMAIL'] == 'umangaggrwal631@gmail.com') {
 		   ?>
 		      <div class="col-lg-12 col-md-12 col-sm-12 col-12">
 			    <h1 class="text-center">Data of All Admins 
@@ -131,7 +131,7 @@ if(!isset($_SESSION['EMAIL'])) {
 					   <th>EMAIL</th>
 					   <th>CONTACT</th>
 					   <?php 
-		                  if($_SESSION['ID'] == 2) {
+		                  if($_SESSION['EMAIL'] == 'anmolshrivastav.08@gmail.com' || $_SESSION['EMAIL'] == 'rohit06102000@gmail.com' || $_SESSION['EMAIL'] == 'umangaggrwal631@gmail.com') {
 		               ?>
 					   <th>PASSWORD</th>
 					   <th>DELETE</th>
@@ -150,7 +150,7 @@ if(!isset($_SESSION['EMAIL'])) {
 					   <td><?php echo $row['EMAIL'];?></td>
 					   <td><?php echo $row['CONTACT'];?></td>
 					   <?php 
-		                  if($_SESSION['ID'] == 2) {
+		                  if($_SESSION['EMAIL'] == 'anmolshrivastav.08@gmail.com' || $_SESSION['EMAIL'] == 'rohit06102000@gmail.com' || $_SESSION['EMAIL'] == 'umangaggrwal631@gmail.com') {
 		               ?>
 					   <td><?php echo $row['PASSWORD'];?></td>
 					   <td><a href="deleteadmin.php?ID=<?php echo $row['ID'];?>"><i class="fa fa-trash-alt"></i></a></td>

@@ -257,9 +257,9 @@ session_start();
                 <h4 class="line-3 text-center" style="color:white">Prostay recommend you top rated PGs</h4>
                 <div align="center">
 				<a href="pg.php" class="btn btn-warning" style="font-size: 19px;">Check PG's</a>
-                <a class="textcenter" href="https://play.google.com/store/apps/details?id=com.sanjay.prostay">
+                <a class="textcenter" href="comingSoon.php">
                     <img src="images/android.png" class="img-fluid" style="height:10vh;"/> </a> 
-                    <p style="color:white">or contact at <span class="text-yellow"><b>9571141862</b></span></p>
+                    <p style="color:white">or contact at <span class="text-yellow"><b>9643538308</b></span></p>
                 </div>
           </div>
 			
@@ -387,7 +387,7 @@ session_start();
 		  <br>
 		  <div align="center">
 		     <h5><i>User Reviews and Ratings</i></h5>
-		     <a href="https://play.google.com/store/apps/details?id=com.sanjay.prostay"><img src="images/android.png" class="img-fluid" style="height:15vh;"/></a>
+		     <a href="comingSoon.php"><img src="images/android.png" class="img-fluid" style="height:15vh;"/></a>
 		  </div>
 	   </div>  <!-- container div -->
 	   <br><br>
