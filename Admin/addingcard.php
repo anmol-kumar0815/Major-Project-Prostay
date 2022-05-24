@@ -42,8 +42,8 @@
        mysqli_query($conn, $sql) or die("Insert query not running");
 	   
 	   $sql = "SELECT ID FROM addcard ORDER BY ID DESC LIMIT 1";
-	   $result = mysqY NOT RUNNING");
-	   $row = mysqli_fetch_assoc($result) or dili_query($conn, $sql) or die("SELECT ID QUERe("Not fetching id");
+	   $result = mysqli_query($conn, $sql) or die("select id query is not running");
+	   $row = mysqli_fetch_assoc($result);
 	   
 	   //CAROUSEL TABLE
 	   $tablename = "carousel_".$row['ID'];
