@@ -44,7 +44,6 @@
 		        float: left;
 		    }
 		}
-	}	
 	</style>
   </head>
   <body>
