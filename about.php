@@ -18,7 +18,6 @@ session_start();
     body {
 	  padding: 0;
 	  margin: 0;
-	  
 	}
 	.title {
 	   font-size: 40px;
