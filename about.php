@@ -1,3 +1,4 @@
+<!-- about page -->
 <?php
 include("config.php");
 session_start();
