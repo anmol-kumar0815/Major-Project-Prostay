@@ -1,3 +1,4 @@
+<!-- about page -->
 <?php
 include("config.php");
 session_start();
@@ -18,7 +19,6 @@ session_start();
     body {
 	  padding: 0;
 	  margin: 0;
-	  
 	}
 	.title {
 	   font-size: 40px;
