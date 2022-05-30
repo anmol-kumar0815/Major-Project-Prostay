@@ -119,7 +119,6 @@ session_start();
           </nav>
 		<div class="container" style="margin-top: 85px;">
 		    <h1 class="text-center">Privacy Policy</h1>
-			<p class="text-center bottom-line">Last Updated on 20 November, 2020<br>Prostay.in is operated by Evergreencube Solutions Pvt. Ltd.</p>
             <hr style="height:2px; background-color:#FFED46;padding:0;">
 			<ol>
 			    <li class="list">The profile created by the User inclusive of User Information, regarding property, requirement or other content, such as photos may be accessed and viewed by other Users, persons and/or Third Party Service Providers as and when such other Users, persons and/or Third Party Service Providers access the Site.</li>
@@ -129,7 +128,7 @@ session_start();
 				<li class="list">The User and/or any other person accessing the Site may choose to opt out of receiving the notifications or messages in connection with the Services from Prostay by sending Prostay an e-mail at hello@Prostay.in. The User may however still receive a notification from Prostay, if Prostay updates this Agreement, including but not limited to the Terms and Conditions and/or Privacy Policy.</li>
 				<li class="list">Prostay shall use the standard industrial measures to protect Personal Information stored in Prostay’s database. Prostay limits the access of Personal Information to only its employees, customer service personnel and contractors who may need such access during the course of their employment for providing the Services</li>
 				<li class="list">The User hereby acknowledge that Prostay is not responsible for any intercepted information sent via the internet, and the User hereby releases Prostay from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</li>
-				<li class="list">Any User grievance relating to the discrepancies or misuse of information so provided to Prostay may be addressed to the grievance officer, whose details are provided below appointed by Prostay for this purpose.<br><strong>Prostay Privacy Controller<br>Email Id: privacycontroller@Prostay.in</strong><br>The grievance officer shall address the grievance within one month of the date of receipt of such grievance from the User.</li>
+				<li class="list">Any User grievance relating to the discrepancies or misuse of information so provided to Prostay may be addressed to the grievance officer, whose details are provided below appointed by Prostay for this purpose.<br><strong>Prostay Privacy Controller<br>Email Id: anmolshrivastav.08@gmail.com, umangaggrwal631@gmail.com, rohit06102000@gmail.com</strong><br>The grievance officer shall address the grievance within one month of the date of receipt of such grievance from the User.</li>
 			</ol>
 		</div> <!-- container div -->
 <br>
