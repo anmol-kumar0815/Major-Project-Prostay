@@ -68,10 +68,10 @@
 						<li class="footer-list"><a href="../partner-policies.php" style="text-decoration: none; color: black; font-weight: 450;">Partner 
                             Policies</a></li>
 						<br>
-						<li class="social"><a href="https://www.youtube.com/results?search_query=prostay+comfort"><i class="fab fa-youtube" style="font-size:30px; color: black;" OnMouseOver="this.style.color='red'" OnMouseOut="this.style.color='black'"></i></a></li>
-						<li class="social"><a href="https://twitter.com/ProstayIn"><i class="fab fa-twitter" style="font-size:30px; color: black;" OnMouseOver="this.style.color='#00acee'" OnMouseOut="this.style.color='black'"></i></a></li>
-                        <li class="social"><a href="https://www.facebook.com/prostay.in"><i class="fab fa-facebook" style="font-size:30px; color: black;" OnMouseOver="this.style.color='blue'" OnMouseOut="this.style.color='black'"></i></a></li>
-						<li class="social"><a href="https://instagram.com/prostay.in?igshid=1u2btslxtzkfi"><i class="fab fa-instagram" style="font-size:30px; color: black;" OnMouseOver="this.style.color='#3f729b'" OnMouseOut="this.style.color='black'"></i></a></li> 
+						<li class="social"><a href="../comingSoon.php"><i class="fab fa-youtube" style="font-size:30px; color: black;" OnMouseOver="this.style.color='red'" OnMouseOut="this.style.color='black'"></i></a></li>
+						<li class="social"><a href="../comingSoon.php"><i class="fab fa-twitter" style="font-size:30px; color: black;" OnMouseOver="this.style.color='#00acee'" OnMouseOut="this.style.color='black'"></i></a></li>
+                        <li class="social"><a href="../comingSoon.php"><i class="fab fa-facebook" style="font-size:30px; color: black;" OnMouseOver="this.style.color='blue'" OnMouseOut="this.style.color='black'"></i></a></li>
+						<li class="social"><a href="../comingSoon.php"><i class="fab fa-instagram" style="font-size:30px; color: black;" OnMouseOver="this.style.color='#3f729b'" OnMouseOut="this.style.color='black'"></i></a></li> 
                         <li class="social"><a href="../comingSoon.php"><img src="../images/android.png" class="img-fluid" style="height:10vh;" /></a></li> 
 					</ul>
                 </div>   
