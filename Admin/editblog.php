@@ -26,9 +26,9 @@ if(isset($_POST['upload'])) {
 	    if(empty($error)=== true)  {
 	        move_uploaded_file($file_tmp,"../images/".$file_name);	
 	    }  else {
-		    echo"<pre>";
+		    echo "<pre>";
 		    print_r($error);
-		    echo"</pre>";
+		    echo "</pre>";
 	    	die();
 	    }
 		//DELETE STORED IMAGE
@@ -44,7 +44,7 @@ if(isset($_POST['upload'])) {
 	$title = $_POST['TITLE'];
 	$author = $_POST['AUTHOR'];
 	$description = addslashes($_POST['DESCRIPTION']);
-	$sql = "UPDATE blogs SET TITLE='{$title}',AUTHOR='{$author}',DESCRIPTION='{$description}' WHERE ID = $id";
+	$sql = "UPDATE blogs SET TITLE='{$title}',AUTHOR='{$author}',DESCRIPTION='{$description}', DATE=now() WHERE ID = $id";
 	mysqli_query($conn,$sql) or die("UPDATE query not running");
 	header("location: blogs-admin.php");
 }
