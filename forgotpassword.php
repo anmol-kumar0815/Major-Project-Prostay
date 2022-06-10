@@ -140,7 +140,8 @@ if(isset($_POST['sent']))
 		   </form>
 		</div> <!-- container div -->
 		<br>
-<!-- footer -->
-<?php include("footer.php"); ?>
+		
+	<!-- footer -->
+	<?php include("footer.php"); ?>
   </body>
 </html>

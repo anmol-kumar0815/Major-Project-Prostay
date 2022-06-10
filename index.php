@@ -256,10 +256,9 @@ session_start();
                 <h1 style="color:white" class="line-1 text-center">Get inside<br>  Information about any PG/Co-Living.</h1>
                 <h4 class="line-3 text-center" style="color:white">Prostay recommend you top rated PGs</h4>
                 <div align="center">
-				<a href="pg.php" class="btn btn-warning" style="font-size: 19px;">Check PG's</a>
-                <a class="textcenter" href="comingSoon.php">
-                    <img src="images/android.png" class="img-fluid" style="height:10vh;"/> </a> 
-                    <p style="color:white">or contact at <span class="text-yellow"><b>9643538308</b></span></p>
+					<a href="pg.php" class="btn btn-warning" style="font-size: 19px;">Check PG's</a>
+					<!-- <a class="textcenter" href="comingSoon.php"><img src="images/android.png" class="img-fluid" style="height:10vh;"/> </a>  -->
+					<p style="color:white">or contact at <span class="text-yellow"><b>9643538308</b></span></p>
                 </div>
           </div>
 			
@@ -362,7 +361,7 @@ session_start();
 			 </div>
 		  </div>  <!-- row -->
 		  
-		  <p class="title text-center">Prostay Application<p>
+		  <!-- <p class="title text-center">Prostay Application<p>
 		  <hr style="height:2px; background-color:#FFED46;padding:0;">
 		  
 		  <div class="row">
@@ -383,12 +382,13 @@ session_start();
 				    <img src="images/screenshot-3.jpeg" class="img-fluid app"/>
 				</div> 
 			</div>
-		  </div> <!-- row div -->
+		  </div> row div -->
 		  <br>
-		  <div align="center">
+
+		  <!-- <div align="center">
 		     <h5><i>User Reviews and Ratings</i></h5>
 		     <a href="comingSoon.php"><img src="images/android.png" class="img-fluid" style="height:15vh;"/></a>
-		  </div>
+		  </div> -->
 	   </div>  <!-- container div -->
 	   <br><br>
 	   

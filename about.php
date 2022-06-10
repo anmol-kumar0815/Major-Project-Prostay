@@ -198,7 +198,7 @@ session_start();
 					It is an end-to-end platform performed with advanced technology. 
 					The core theme of PROSTAY is to provide the best user experience in an easiest way.
 				 </p>
-				 <a href="comingSoon.php" class="btn btn-first bg-yellow" style="font-size: 18px;">DOWNLOAD OUR APP</a>
+				 <!-- <a href="comingSoon.php" class="btn btn-first bg-yellow" style="font-size: 18px;">DOWNLOAD OUR APP</a> -->
 			  </div>
 			  <div class="col-lg-6 col-md-6 col-sm-12 col-12 order-lg-2 order-1">
 			        <img src="images/v5_13.png" class="img-fluid" style="width:100%; height: 100%;"/>
